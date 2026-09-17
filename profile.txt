@@ -1,0 +1,9 @@
+2. เนื้อหาไฟล์ profile.txt
+
+ชื่อ-สกุล: นนทภัทร พลนอก
+ระดับชั้น: ปวส.1
+แผนกวิชา: เทคโนโลยีสารสนเทศ
+เลขที่: 044
+วันที่สอบ: 17/9/2026
+ชื่อ Repository: devops-final-exam-student
+ลิงก์ GitHub Repository: https://github.com/nonthapatphonnok12102550-spec/devops-final-exam-student.git
